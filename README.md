@@ -12,5 +12,5 @@ This .zip has a password, only people with the password can access the tool
 ![image](https://user-images.githubusercontent.com/81113363/201953912-afb7ff99-2012-46d0-bb52-fdf1a38b4822.png)
 
 # Info
-Language: C#, Windows Forms .NET
-Method: Request, Post
+* Language: C#, Windows Forms .NET
+* Method: Request, Post
