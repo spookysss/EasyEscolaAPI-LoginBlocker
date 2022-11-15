@@ -4,6 +4,11 @@ A simple login blocker for EasyEscolaAPI
 # Private Tool
 This .zip has a password, only people with the password can access the tool
 
+# How to download
+* Download EasyEscolaAPI.zip
+* Extract the file
+* Open .EasyEscolaAPI.exe
+
 # How to use
 * Enter your login in the text box
 * Press the button called "Block Login" and done!
