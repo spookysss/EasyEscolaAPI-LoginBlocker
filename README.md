@@ -1,5 +1,6 @@
 # EasyEscolaAPI LoginBlocker
 A simple login blocker for EasyEscolaAPI
+THIS TOOL WAS DEVELOPED FOR EDUCATIONAL PURPOSES, ANY USE OF IT IN A MALICIOUS WAY, I, SPOOKYSSS, IS NOT RESPONSIBLE!
 
 # Private Tool
 This .zip has a password, only people with the password can access the tool
